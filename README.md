@@ -6,11 +6,11 @@
 
 ## Начало работы
 
-Для начала работы необходимо зайти на https://github.com/twop1/Handwear и запустить bin/Debug/Handwear.exe.
+Для начала работы необходимо зайти на https://github.com/twop1/Handwear и запустить Handwear/bin/Debug/Handwear.exe.
 
 ### Необходимые условия
 
-Чтобы работать с данной системой необходимо иметь: Visual Studio и SQL Manager.
+Чтобы работать с данной системой, необходимо иметь: Visual Studio и SQL Manager.
 
 ### Установка
 
@@ -32,6 +32,7 @@
 
 ## Авторы
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Дима Байда** - *Одежда для ручек* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
